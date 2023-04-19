@@ -15,6 +15,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/php.svg" width="36" height="36" alt="php" />
+      </a>
+      <br>php
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>typescript
@@ -43,14 +49,14 @@
       </a>
       <br>Postman
     </td>
-    <td align="center" width="110" height="90">
+  </tr> 
+  <tr>
+  <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/figma.svg" width="36" height="36" alt="figma" />
       </a>
       <br>figma
     </td>
-  </tr> 
-  <tr>
   <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="36" height="36" alt="photoshop" />
@@ -82,6 +88,12 @@
 
 <table width='100%'>
   <tr>
+  <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/laravel.svg" width="36" height="36" alt="laravel" />
+      </a>
+      <br>Laravel
+    </td>
    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="36" height="36" alt="Node" />
@@ -118,13 +130,15 @@
       </a>
       <br>mySQL
     </td>
-     <td align="center" width="110" height="90"> 
+  </tr> 
+  <tr>
+  <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="36" height="36" alt="postgresql" />
       </a>
       <br>postgreSQL
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > Frontend
