@@ -25,7 +25,7 @@
       </a>
       <br>Html5
     </td>
-         <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/css-3.svg" width="36" height="36" alt="css" />
       </a>
@@ -49,7 +49,9 @@
       </a>
       <br>figma
     </td>
-    <td align="center" width="110" height="90">
+  </tr> 
+  <tr>
+  <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="36" height="36" alt="photoshop" />
       </a>
@@ -73,7 +75,7 @@
       </a>
       <br>github
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > BackEnd
@@ -171,7 +173,9 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90">
+  </tr> 
+  <tr>
+  <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Sass/Scss" />
       </a>
@@ -183,7 +187,7 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > Code quality
