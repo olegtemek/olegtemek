@@ -138,12 +138,6 @@
       </a>
       <br>mySQL
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/jwt.svg" width="36" height="36" alt="Jwt" />
-      </a>
-      <br>Jwt
-    </td>
   </tr>
 </table>
 
