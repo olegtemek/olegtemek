@@ -88,7 +88,7 @@
 
 <table width='100%'>
   <tr>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/laravel.svg" width="36" height="36" alt="laravel" />
       </a>
@@ -100,19 +100,18 @@
       </a>
       <br>Node Js
     </td>
-  <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="36" height="36" alt="NestJS" />
       </a>
       <br>NestJS
     </td>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/express.svg" width="36" height="36" alt="Express" />
       </a>
       <br>Express
     </td>
-   
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
@@ -133,7 +132,7 @@
     </td>
   </tr> 
   <tr>
-  <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
       </a>
