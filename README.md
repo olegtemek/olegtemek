@@ -88,17 +88,23 @@
 
 <table width='100%'>
   <tr>
-  <td align="center" width="110" height="90">
+     <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/laravel.svg" width="36" height="36" alt="laravel" />
       </a>
       <br>Laravel
     </td>
-   <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="36" height="36" alt="Node" />
       </a>
       <br>Node Js
+    </td>
+  <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="36" height="36" alt="NestJS" />
+      </a>
+      <br>NestJS
     </td>
      <td align="center" width="110" height="90">
       <a href="#olegtemek" >
@@ -106,12 +112,7 @@
       </a>
       <br>Express
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="36" height="36" alt="NestJS" />
-      </a>
-      <br>NestJS
-    </td>
+   
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
