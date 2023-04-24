@@ -108,6 +108,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="36" height="36" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
@@ -120,23 +126,23 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/jwt.svg" width="36" height="36" alt="Jwt" />
+        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="36" height="36" alt="postgresql" />
       </a>
-      <br>Jwt
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
-      </a>
-      <br>mySQL
+      <br>postgreSQL
     </td>
   </tr> 
   <tr>
   <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="36" height="36" alt="postgresql" />
+        <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
       </a>
-      <br>postgreSQL
+      <br>mySQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/jwt.svg" width="36" height="36" alt="Jwt" />
+      </a>
+      <br>Jwt
     </td>
   </tr>
 </table>
