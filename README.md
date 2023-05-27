@@ -189,17 +189,23 @@
     </td>
   </tr> 
   <tr>
-  <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Sass/Scss" />
       </a>
       <br>Sass/Scss
     </td>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
     </td>
   </tr>
 </table>
