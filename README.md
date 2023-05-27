@@ -43,11 +43,11 @@
       </a>
       <br>Docker
     </td>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/postman.svg" width="36" height="36" alt="Postman" />
+        <img src="https://cdn.svgporn.com/logos/insomnia.svg" width="36" height="36" alt="Insomnia" />
       </a>
-      <br>Postman
+      <br>Insomnia
     </td>
   </tr> 
   <tr>
