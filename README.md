@@ -1,5 +1,5 @@
 
-<h1 align="left">:wave: Hello world! I'm Alekseenko Oleg</h1>
+<h1 align="left">👋 Hello world! I'm Alekseenko Oleg</h1>
 
 <h2 align="left" id="olegtemek">🔧 Tech stack</h2>
 
@@ -26,42 +26,10 @@
       <br>php
     </td>
     <td align="center" width="110" height="90">
-      <a href="#olegtemek">
-        <img src="https://cdn.svgporn.com/logos/html-5.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/css-3.svg" width="36" height="36" alt="css" />
-      </a>
-      <br>Css
-    </td>
-    <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/docker.svg" width="36" height="36" alt="docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/insomnia.svg" width="36" height="36" alt="Insomnia" />
-      </a>
-      <br>Insomnia
-    </td>
-  </tr> 
-  <tr>
-  <td align="center" width="110" height="90">
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/figma.svg" width="36" height="36" alt="figma" />
-      </a>
-      <br>figma
-    </td>
-  <td align="center" width="110" height="90">
-      <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="36" height="36" alt="photoshop" />
-      </a>
-      <br>Photoshop
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek">
@@ -69,13 +37,15 @@
       </a>
       <br>git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="36" height="36" alt="github" />
       </a>
@@ -84,7 +54,7 @@
   </tr>
 </table>
 
-> BackEnd
+> Backend
 
 <table width='100%'>
   <tr>
@@ -108,9 +78,29 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek">
-        <img src="https://cdn.svgporn.com/logos/laravel.svg" width="36" height="36" alt="laravel" />
+        <img src="https://cdn.svgporn.com/logos/laravel.svg" width="36" height="36" alt="Laravel" />
       </a>
       <br>Laravel
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
+  </tr> 
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" width="36" height="36" alt="RabbitMQ" />
+      </a>
+      <br>Kafka
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/typeorm.svg" width="36" height="36" alt="TypeORM" />
+      </a>
+      <br>TypeORM
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
@@ -128,15 +118,21 @@
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="36" height="36" alt="postgresql" />
       </a>
-      <br>postgreSQL
+      <br>PostgreSQL
     </td>
-  </tr> 
+  </tr>
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
       </a>
-      <br>mySQL
+      <br>MySQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="36" height="36" alt="MongoDB" />
+      </a>
+      <br>MongoDB
     </td>
   </tr>
 </table>
@@ -165,16 +161,18 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/vueuse.svg" width="36" height="36" alt="VueUse" />
+        <img src="https://cdn.svgporn.com/logos/react.svg" width="36" height="36" alt="React" />
       </a>
-      <br>VueUse
+      <br>React
     </td>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
-        <img src="https://cdn.svgporn.com/logos/vuetifyjs.svg" width="36" height="36" alt="Vuetify" />
+        <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="36" height="36" alt="NextJS" />
       </a>
-      <br>Vuetify
+      <br>NextJS
     </td>
+  </tr> 
+  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="36" height="36" alt="Vite" />
@@ -187,8 +185,6 @@
       </a>
       <br>Webpack
     </td>
-  </tr> 
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Sass/Scss" />
@@ -230,6 +226,6 @@
 </table>
 
 ## 🤝 Contact
-- :airplane: &nbsp;**[Telegram](https://t.me/olegtemek)**
-- :comet: &nbsp;**[Github](https://github.com/olegtemek)**
+- ✈️ &nbsp;**[Telegram](https://t.me/olegtemek)**
+- ☄️ &nbsp;**[Github](https://github.com/olegtemek)**
 <br>
