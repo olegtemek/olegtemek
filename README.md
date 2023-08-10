@@ -37,8 +37,6 @@
       </a>
       <br>git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="36" height="36" alt="npm" />
@@ -88,8 +86,6 @@
       </a>
       <br>RabbitMQ
     </td>
-  </tr> 
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" width="36" height="36" alt="RabbitMQ" />
@@ -102,6 +98,8 @@
       </a>
       <br>TypeORM
     </td>
+  </tr> 
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
@@ -171,8 +169,6 @@
       </a>
       <br>NextJS
     </td>
-  </tr> 
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="36" height="36" alt="Vite" />
@@ -185,6 +181,8 @@
       </a>
       <br>Webpack
     </td>
+  </tr> 
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Sass/Scss" />
