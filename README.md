@@ -118,8 +118,6 @@
       </a>
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#olegtemek" >
         <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
