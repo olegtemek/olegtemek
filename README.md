@@ -4,53 +4,216 @@
 
 ###### _I love it when a task is challenging and you have to think about it_
 
----
-
-<br />
-
-### General:
-
-![Static Badge](https://img.shields.io/badge/Typescript-EAECCC?logo=typescript&logoColor=#3178C6)
-![Static Badge](https://img.shields.io/badge/Javascript-EAECCC?logo=javascript&logoColor=#F7DF1E)
-![Static Badge](https://img.shields.io/badge/Php-EAECCC?logo=react&logoColor=#777BB4)
-![Static Badge](https://img.shields.io/badge/Docker-EAECCC?logo=docker&logoColor=#2496ED)
-![Static Badge](https://img.shields.io/badge/Git-EAECCC?logo=git&logoColor=#F05032)
-![Static Badge](https://img.shields.io/badge/Npm-EAECCC?logo=npm&logoColor=#CB3837)
-![Static Badge](https://img.shields.io/badge/Webpack-EAECCC?logo=webpack&logoColor=#8DD6F9)
-![Static Badge](https://img.shields.io/badge/Eslint-EAECCC?logo=eslint&logoColor=#4B32C3)
-![Static Badge](https://img.shields.io/badge/Prettier-EAECCC?logo=prettier&logoColor=#F7B93E)
-
-### Backend:
-
-![Static Badge](https://img.shields.io/badge/Nodejs-EAECCC?logo=nodedotjs&logoColor=#339933)
-![Static Badge](https://img.shields.io/badge/NestJs-EAECCC?logo=nestjs&logoColor=#E0234E)
-![Static Badge](https://img.shields.io/badge/Express-EAECCC?logo=express&logoColor=#000000)
-![Static Badge](https://img.shields.io/badge/Redis-EAECCC?logo=redis&logoColor=#DC382D)
-![Static Badge](https://img.shields.io/badge/RabbitMQ-EAECCC?logo=rabbitmq&logoColor=#FF6600)
-![Static Badge](https://img.shields.io/badge/Prisma-EAECCC?logo=prisma&logoColor=#2D3748)
-![Static Badge](https://img.shields.io/badge/Typeorm-EAECCC)
-![Static Badge](https://img.shields.io/badge/Mongoose-EAECCC?logo=mongoose&logoColor=#880000)
-![Static Badge](https://img.shields.io/badge/Postgresql-EAECCC?logo=postgresql&logoColor=#4169E1)
-![Static Badge](https://img.shields.io/badge/Mysql-EAECCC?logo=mysql&logoColor=#4479A1)
-![Static Badge](https://img.shields.io/badge/Mongodb-EAECCC?logo=mongodb&logoColor=#4169E1)
-
-### FrontEnd:
-
-![Static Badge](https://img.shields.io/badge/Vue-EAECCC?logo=vuedotjs&logoColor=#4FC08D)
-![Static Badge](https://img.shields.io/badge/Nuxt-EAECCC?logo=nuxtdotjs&logoColor=#00DC82)
-![Static Badge](https://img.shields.io/badge/React-EAECCC?logo=react&logoColor=#61DAFB)
-![Static Badge](https://img.shields.io/badge/Next-EAECCC?logo=nextdotjs&logoColor=#000000)
-![Static Badge](https://img.shields.io/badge/Sass-EAECCC?logo=sass&logoColor=#CC6699)
-![Static Badge](https://img.shields.io/badge/Vite-EAECCC?logo=vite&logoColor=#646CFF)
-![Static Badge](https://img.shields.io/badge/Webpack-EAECCC?logo=webpack&logoColor=#8DD6F9)
-
----
-
-<br/>
-
 ## 🤝 Contacts
 
 - ✈️ &nbsp;**[Telegram](https://t.me/olegtemek)**
 - ☄️ &nbsp;**[Github](https://github.com/olegtemek)**
+
+<br/>
+
+---
+
+<br />
+
+> General
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/javascript.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>javascript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>typescript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/php.svg" width="36" height="36" alt="php" />
+      </a>
+      <br>php
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/docker.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/github-icon.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>github
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/eslint.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>eslint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/prettier.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>prettier
+    </td>
+  </tr>
+</table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="36" height="36" alt="Node" />
+      </a>
+      <br>Node Js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="36" height="36" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/express.svg" width="36" height="36" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/redis.svg" width="36" height="36" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" width="36" height="36" alt="RabbitMQ" />
+      </a>
+      <br>Kafka
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/typeorm.svg" width="36" height="36" alt="TypeORM" />
+      </a>
+      <br>TypeORM
+    </td>
+  </tr> 
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/sequelize.svg" width="36" height="36" alt="Sequelize" />
+      </a>
+      <br>Sequelize
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="36" height="36" alt="postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/mysql.svg" width="36" height="36" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="36" height="36" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/vue.svg" width="36" height="36" alt="Vue" />
+      </a>
+      <br>Vue Js
+    </td> 
+     <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" width="36" height="36" alt="Nuxt JS" />
+      </a>
+      <br>Nuxt Js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
+      </a>
+      <br>Pinia
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/react.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="36" height="36" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#olegtemek" >
+        <img src="https://cdn.svgporn.com/logos/webpack.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+  </tr> 
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#olegtemek">
+        <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Sass/Scss" />
+      </a>
+      <br>Sass/Scss
+    </td>
+  </tr>
+</table>
 
 <br/>
