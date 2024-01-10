@@ -1,30 +1,6 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&display=swap" rel="stylesheet" />
-
-  <style>
-    *{
-      font-family:"Fira Code" !important;
-      font-weight:300;
-    }
-
-    span{
-      color:#EAECCC;
-    }
-    .row{
-      display:flex;
-      align-items:center;
-      justify-content:flex-start;
-    }
-
-    .row-item{
-      height:10px;
-    }
-  </style>
-</head>
-
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3E2C2&random=false&width=435&lines=%F0%9F%91%8B+Hello+world)
 
-### My name is <span>Oleg Alekseenko</span>, im Backend Developer
+### My name is <span style="color:#EAECCC">Oleg Alekseenko</span>, im Backend Developer
 
 ###### _I love it when a task is challenging and you have to think about it_
 
@@ -78,5 +54,3 @@
 - ☄️ &nbsp;**[Github](https://github.com/olegtemek)**
 
 <br/>
-
-![Visits Badge](https://badges.pufler.dev/visits/olegtemek/olegtemek)
