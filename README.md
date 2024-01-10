@@ -22,7 +22,7 @@
   </style>
 </head>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3E2C2&random=false&width=435&lines=%F0%9F%91%8B+Hello+world)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3E2C2&random=false&width=435&lines=%F0%9F%91%8B+Hello+world)
 
 ### My name is <span>Oleg Alekseenko</span>, im Backend Developer
 
