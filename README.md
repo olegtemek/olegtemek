@@ -7,7 +7,7 @@
 ## 🤝 Contacts
 
 - ✈️ &nbsp;**[Telegram](https://t.me/olegtemek)**
-- ☄️ &nbsp;**[Github](https://github.com/olegtemek)**
+- 💌 &nbsp;**olegtemek@gmail.com**
 
 <br/>
 
