@@ -21,13 +21,13 @@
       </a>
       <br>go
     </td>
-    <td align="center" width="110" height="90" style="text-decoration:line-through">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/javascript.svg" width="36" height="36" alt="javascript" />
       </a>
       <br>javascript
     </td>
-    <td align="center" width="110" height="90" style="text-decoration:line-through">
+    <td align="center" width="110" height="90">
       <a href="#olegtemek">
         <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="36" height="36" alt="typescript" />
       </a>
