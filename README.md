@@ -39,11 +39,5 @@
       </a>
       <br>Docker
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#olegtemek">
-        <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
   </tr>
 </table>
