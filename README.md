@@ -1,11 +1,18 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3E2C2&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hello+world)
-
-### My name is <span style="color:#EAECCC">Oleg Alekseenko</span>, im Backend Developer
+<h2>README</h2>
+<h3>My name is <span style="color:#79dafa">Oleg Alekseenko</span>, im <span style="color:#79dafa">Backend Developer</span></h1>
 
 ###### _I love it when a task is challenging and you have to think about it_
 
-## 🤝 Contacts
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olegtemek&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Projects</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=portfolio-go&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=ot-badge&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 >Contacts</h2>
 
 - ✈️ &nbsp;**[Telegram](https://t.me/olegtemek)**
 - 💌 &nbsp;**olegtemek@gmail.com**
-
