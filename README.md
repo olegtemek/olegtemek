@@ -1,5 +1,5 @@
 <h2>README</h2>
-<h3>My name is <span style="color:#79dafa">Oleg Alekseenko</span>, im <span style="color:#79dafa">Backend Developer</span></h1>
+<h3>My name is <span>Oleg Alekseenko</span>, im <span>Backend Developer</span></h1>
 
 ###### _I love it when a task is challenging and you have to think about it_
 
