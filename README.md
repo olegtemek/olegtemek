@@ -9,8 +9,8 @@
 
 <h2>Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=portfolio-go&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=ot-badge&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=portfolio-go&theme=dracula)](https://github.com/olegtemek/portfolio-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olegtemek&repo=ot-badge&theme=dracula)](https://github.com/olegtemek/ot-badge)
 
 <h2 >Contacts</h2>
 
